@@ -1,0 +1,138 @@
+[
+  {
+    "id": "partner-1",
+    "name": "Malabar Organic Spice Guild",
+    "country": "India",
+    "city": "Wayanad, Kerala",
+    "industry": "Spices and Food Products",
+    "verification_status": "Govt of India Spices Board Certified",
+    "description": "Consortium of 120 smallholder organic farmers harvesting single-origin Tellicherry black pepper, green cardamom, and high-curcumin Lakadong turmeric. Export-ready to North American organic food distributors.",
+    "collaboration_interests": [
+      "US Gourmet Food Retailers",
+      "Organic Wholesale Importers",
+      "Farm-to-Fork Brand Partnerships"
+    ],
+    "contact_email": "connect@malabarorganics.in",
+    "products": ["Single-Estate Tellicherry Pepper", "Sun-dried Ginger", "Organic Green Cardamom"],
+    "collaboration_type": "Wholesale Export & Co-branding"
+  },
+  {
+    "id": "partner-2",
+    "name": "Jaipur Royal Weaves & Block Collective",
+    "country": "India",
+    "city": "Jaipur, Rajasthan",
+    "industry": "Handicrafts and Textiles",
+    "verification_status": "Fair Trade Certified Producer",
+    "description": "Heritage artisanal enterprise employing 85 master dyers and block carvers. Specializes in organic hand-spun cotton, modal silk fabrics, and natural indigo home decor line tailored for luxury Western interior designers.",
+    "collaboration_interests": [
+      "US Boutique Fashion Labels",
+      "Sustainable Home Furnishing Brands",
+      "Ethical Design Studios"
+    ],
+    "contact_email": "partners@jaipurweaves.org",
+    "products": ["Hand-block Table Linens", "Artisanal Dabu Bedding", "Handwoven Cotton Kaftans"],
+    "collaboration_type": "Custom Design Manufacturing"
+  },
+  {
+    "id": "partner-3",
+    "name": "Heritage Haveli Palaces Alliance",
+    "country": "India",
+    "city": "Udaipur, Rajasthan",
+    "industry": "Hospitality",
+    "verification_status": "Heritage Hotels of India Member",
+    "description": "Network of 14 independently owned historic palaces, river retreats, and boutique havelis offering carbon-neutral, private buyouts for executive retreats, wellness sabbaticals, and bespoke private tours.",
+    "collaboration_interests": [
+      "US Luxury Travel Concierges (Virtuoso, Signature)",
+      "Silicon Valley Executive Retreat Organizers",
+      "Destination Wedding Planners"
+    ],
+    "contact_email": "concierge@havelialliance.in",
+    "products": ["Private Fort Buyouts", "Curated Wellness Sabbaticals", "Bespoke Royal Dinners"],
+    "collaboration_type": "Direct Inbound Alliances"
+  },
+  {
+    "id": "partner-4",
+    "name": "Incredible India Heritage Expeditions",
+    "country": "India",
+    "city": "New Delhi, Delhi NCR",
+    "industry": "Tourism Services",
+    "verification_status": "Platform Verified Regional DMO",
+    "description": "Inbound destination management company with nationwide private fleet and bilingual concierge desks. Specializes in turnkey ground logistics for US educational tours, VIP families, and cultural delegations.",
+    "collaboration_interests": [
+      "North American Tour Operators",
+      "University Study-Abroad Programs",
+      "Alumni Travel Associations"
+    ],
+    "contact_email": "dispatch@heritageexpeditions.in",
+    "products": ["Private Chauffeur Fleet Operations", "VIP Fast-Track Airport Assistance", "Emergency Response Coordination"],
+    "collaboration_type": "Ground Operator Partnership"
+  },
+  {
+    "id": "partner-5",
+    "name": "Zenith AI Travel & Mobility Labs",
+    "country": "India",
+    "city": "Bengaluru, Karnataka",
+    "industry": "Technology Services",
+    "verification_status": "NASSCOM DeepTech Certified",
+    "description": "B2B travel-tech software engineering studio building autonomous multi-modal routing APIs, dynamic bus/rail ticketing aggregators, and real-time transit telemetry for international travel agencies.",
+    "collaboration_interests": [
+      "Global Online Travel Agencies (OTAs)",
+      "Corporate Travel Management Firms",
+      "Cross-border Travel Insurance Tech"
+    ],
+    "contact_email": "enterprise@zenithtraveltech.io",
+    "products": ["India Transit SDK", "Dynamic Multi-modal Routing Engine", "Local Guide Scheduling API"],
+    "collaboration_type": "Technology Integration & Licensing"
+  },
+  {
+    "id": "partner-6",
+    "name": "Himalayan Forest Botanical Co.",
+    "country": "India",
+    "city": "Dehradun, Uttarakhand",
+    "industry": "Sustainable Products",
+    "verification_status": "GMP & ISO 9001 Certified",
+    "description": "Wild-harvested Himalayan essential oils, cold-pressed apricot kernel oil, and certified organic Ayurvedic botanical extracts sourced from high-altitude women's cooperatives.",
+    "collaboration_interests": [
+      "Clean Beauty Brands in North America & EU",
+      "Luxury Spa Chains",
+      "Aromatherapy Retailers"
+    ],
+    "contact_email": "partnerships@himalayanbotanicals.com",
+    "products": ["Himalayan Cedarwood Oil", "Apricot Kernel Serum", "Wild Lavender Hydrosol"],
+    "collaboration_type": "Bulk Botanical Supply & Private Label"
+  },
+  {
+    "id": "partner-7",
+    "name": "Varanasi Silk Handloom Guild",
+    "country": "India",
+    "city": "Varanasi, Uttar Pradesh",
+    "industry": "Cultural Products",
+    "verification_status": "GI Tagged Certified Handloom Producer",
+    "description": "Apex cooperative of 240 master weavers preserving authentic Katan and Kadhwa silk brocades. Directly connects certified handwoven sarees and bespoke scarves to international fashion curators.",
+    "collaboration_interests": [
+      "International Haute Couture Houses",
+      "Textile Museum Curators",
+      "Fair Trade Silk Retailers"
+    ],
+    "contact_email": "heritage@varanasiweaves.org",
+    "products": ["GI-Tagged Banarasi Silk", "Gold Zari Brocades", "Organic Mulberry Silk Stoles"],
+    "collaboration_type": "Artisanal Commission & Consignment"
+  },
+  {
+    "id": "partner-8",
+    "name": "Indo-US Legal & Cross-Border Advisory",
+    "country": "India",
+    "city": "Mumbai, Maharashtra",
+    "industry": "Other Verified Business Services",
+    "verification_status": "Bar Council of India Registered / AmCham Member",
+    "description": "Specialized boutique advisory assisting international founders, import-export pioneers, and hospitality investors with compliance, GST registration, contract localization, and cross-border vendor vetting.",
+    "collaboration_interests": [
+      "US SMEs Entering Indian Market",
+      "Tourism Joint Ventures",
+      "Foreign Direct Investment Facilitators"
+    ],
+    "contact_email": "advisory@indouslegal.com",
+    "products": ["Vendor Due Diligence Audits", "FDI & Regulatory Compliance Roadmap", "Cross-Border Contract Templates"],
+    "collaboration_type": "Professional Retainer Advisory"
+  }
+]

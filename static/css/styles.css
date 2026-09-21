@@ -1,0 +1,649 @@
+/* BharatConnect AI - Custom Design System */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --navy-dark: #071326;
+  --navy-primary: #0B1F3A;
+  --navy-secondary: #132D54;
+  --navy-card: #0E2547;
+  --gold-primary: #D4AF37;
+  --gold-light: #F3E5AB;
+  --gold-dark: #AA820A;
+  --gold-gradient: linear-gradient(135deg, #F3E5AB 0%, #D4AF37 50%, #AA820A 100%);
+  --charcoal: #111827;
+  --soft-gray: #F5F7FA;
+  --border-gold: rgba(212, 175, 55, 0.25);
+  --glass-bg: rgba(11, 31, 58, 0.75);
+  --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--navy-dark);
+  color: #F3F4F6;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/* Strict Gate & Modal Display Utility */
+.hidden {
+  display: none !important;
+}
+
+.font-serif-luxury {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #071326;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1c3b69;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D4AF37;
+}
+
+/* Glassmorphism Classes */
+.glass-panel {
+  background: rgba(11, 31, 58, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.glass-card {
+  background: rgba(14, 37, 71, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  border-color: rgba(212, 175, 55, 0.4);
+  box-shadow: 0 12px 30px -10px rgba(212, 175, 55, 0.15);
+  transform: translateY(-2px);
+}
+
+.glass-nav {
+  background: rgba(7, 19, 38, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(212, 175, 55, 0.15);
+}
+
+/* Gold Gradient Text & Accents */
+.text-gold-gradient {
+  background: linear-gradient(135deg, #FFF0B8 0%, #D4AF37 50%, #F5C542 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gold-gradient {
+  background: linear-gradient(135deg, #F3E5AB 0%, #D4AF37 60%, #B8860B 100%);
+}
+
+.gold-glow {
+  box-shadow: 0 0 25px rgba(212, 175, 55, 0.3);
+}
+
+.gold-border-glow {
+  border: 1px solid rgba(212, 175, 55, 0.5);
+  box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 0 20px rgba(212, 175, 55, 0.2);
+}
+
+/* Subtly Animated India Mandala Pattern */
+.bg-mandala {
+  background-image: radial-gradient(rgba(212, 175, 55, 0.08) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Shimmer Loading Effect for AI generation */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.animate-shimmer::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(90deg,
+      rgba(255, 255, 255, 0) 0,
+      rgba(212, 175, 55, 0.15) 50%,
+      rgba(255, 255, 255, 0) 100%);
+  animation: shimmer 2s infinite;
+  content: '';
+}
+
+/* Pulse Glow */
+@keyframes pulseGlow {
+
+  0%,
+  100% {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.9;
+    transform: scale(1.02);
+  }
+}
+
+.pulse-glow {
+  animation: pulseGlow 4s infinite ease-in-out;
+}
+
+/* Floating animation for hero elements */
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}
+
+/* Timeline connectors */
+.timeline-step::before {
+  content: '';
+  position: absolute;
+  top: 24px;
+  left: 50%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, #D4AF37 0%, rgba(212, 175, 55, 0.2) 100%);
+  z-index: 0;
+}
+
+.timeline-step:last-child::before {
+  display: none;
+}
+
+/* Print styles for exportable itinerary */
+@media print {
+  body {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .glass-card,
+  .glass-panel {
+    background: #FFFFFF !important;
+    border: 1px solid #E5E7EB !important;
+    color: #111827 !important;
+    box-shadow: none !important;
+  }
+}
+
+/* ==========================================================================
+   FLIGHT JOURNEY & FINAL ARRIVAL BEHAVIOR STYLES
+   ========================================================================== */
+
+#flight-journey-screen {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 100;
+  background: radial-gradient(ellipse at 70% 50%, #0d274c 0%, #071326 65%, #030813 100%);
+  overflow: hidden;
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.8s cubic-bezier(0.16, 1, 0.3, 1),
+    filter 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+#flight-journey-screen.journey-exit {
+  opacity: 0 !important;
+  transform: scale(1.04);
+  filter: blur(8px);
+  pointer-events: none;
+}
+
+/* Scrollable virtual track inside journey screen */
+.journey-scroll-track {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 10;
+  scroll-behavior: smooth;
+}
+
+.journey-scroll-spacer {
+  height: 400vh;
+  /* 4 screens worth of scroll distance for smooth flight feel */
+  width: 100%;
+  pointer-events: none;
+}
+
+/* Fixed HUD & Map Canvas Stage */
+.journey-stage {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: auto;
+  overflow: hidden;
+}
+
+/* Starfield / Atmospheric particles */
+@keyframes starTwinkle {
+
+  0%,
+  100% {
+    opacity: 0.25;
+    transform: scale(0.9);
+  }
+
+  50% {
+    opacity: 0.95;
+    transform: scale(1.15);
+  }
+}
+
+.star-particle {
+  position: absolute;
+  background: #ffffff;
+  border-radius: 50%;
+  animation: starTwinkle 3s infinite ease-in-out;
+}
+
+/* Flight Path SVG Elements */
+#flight-trajectory-path {
+  stroke-dashoffset: 0;
+  filter: drop-shadow(0 0 8px rgba(212, 175, 55, 0.6));
+  transition: stroke-dashoffset 0.1s linear;
+}
+
+/* Airplane Icon Animation */
+#journey-airplane-wrapper {
+  position: absolute;
+  transform-origin: center center;
+  pointer-events: none;
+  z-index: 25;
+  transition: transform 0.08s linear;
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 16px rgba(212, 175, 55, 0.5));
+}
+
+@keyframes engineGlow {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 8px rgba(245, 158, 11, 0.7));
+  }
+
+  50% {
+    filter: drop-shadow(0 0 18px rgba(245, 158, 11, 1)) drop-shadow(-8px 0 10px rgba(56, 189, 248, 0.8));
+  }
+}
+
+.engine-active {
+  animation: engineGlow 1.8s infinite ease-in-out;
+}
+
+/* India Highlight Silhouette & Glow */
+@keyframes indiaHighlightPulse {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 20px rgba(245, 158, 11, 0.7)) drop-shadow(0 0 45px rgba(16, 185, 129, 0.5));
+    opacity: 0.85;
+  }
+
+  50% {
+    filter: drop-shadow(0 0 40px rgba(245, 158, 11, 1)) drop-shadow(0 0 80px rgba(16, 185, 129, 0.85)) drop-shadow(0 0 120px rgba(212, 175, 55, 0.7));
+    opacity: 1;
+  }
+}
+
+.india-glow-active {
+  animation: indiaHighlightPulse 2s infinite ease-in-out !important;
+}
+
+/* Concentric Radar Beacon Rings */
+@keyframes beaconRippleRing {
+  0% {
+    transform: scale(0.2);
+    opacity: 1;
+  }
+
+  70% {
+    opacity: 0.6;
+  }
+
+  100% {
+    transform: scale(3.2);
+    opacity: 0;
+  }
+}
+
+.beacon-ring {
+  position: absolute;
+  border-radius: 50%;
+  border: 2px solid #F59E0B;
+  transform: translate(-50%, -50%);
+  animation: beaconRippleRing 2.4s cubic-bezier(0.2, 0.8, 0.4, 1) infinite;
+  pointer-events: none;
+}
+
+.beacon-ring-2 {
+  animation-delay: 0.8s;
+  border-color: #10B981;
+}
+
+.beacon-ring-3 {
+  animation-delay: 1.6s;
+  border-color: #38BDF8;
+}
+
+/* Arrival Welcome Card Entrance */
+@keyframes arrivalPop {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -40%) scale(0.88);
+    filter: blur(12px);
+  }
+
+  60% {
+    transform: translate(-50%, -51%) scale(1.02);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+    filter: blur(0);
+  }
+}
+
+#journey-arrival-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 60;
+  animation: arrivalPop 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  box-shadow: 0 25px 70px -15px rgba(0, 0, 0, 0.8),
+    0 0 40px rgba(212, 175, 55, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.animate-arrival-pop {
+  animation: arrivalPop 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes holdProgressShimmer {
+  0% {
+    width: 0%;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.hold-progress-fill {
+  animation: holdProgressShimmer 1.6s linear forwards;
+}
+
+/* ========================================================
+   Step 4: Cinematic 3D WebGL World Journey & 3D Markers
+   ======================================================== */
+
+#globe-3d-canvas-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  overflow: hidden;
+  background: radial-gradient(circle at 50% 50%, rgba(11, 31, 58, 0.4) 0%, rgba(7, 19, 38, 0.95) 100%);
+}
+
+#globe-3d-canvas-container canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: block;
+  outline: none;
+}
+
+/* 3D Screen Projected Location Badges */
+.globe-marker-badge {
+  position: absolute;
+  z-index: 35;
+  transform: translate(-50%, -100%);
+  pointer-events: none;
+  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), transform 0.1s ease-out;
+  will-change: transform, opacity;
+}
+
+@keyframes markerPulseGlow {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 8px rgba(56, 189, 248, 0.6));
+  }
+
+  50% {
+    filter: drop-shadow(0 0 16px rgba(56, 189, 248, 0.95));
+  }
+}
+
+.globe-marker-badge-pulse {
+  animation: markerPulseGlow 2s infinite ease-in-out;
+}
+
+/* Narrative Story Subtitle Bar */
+#journey-story-container {
+  animation: fadeInDown 0.6s ease-out forwards;
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ==========================================================================
+   APPLICATION VIEW MANAGEMENT (SPA ROUTING)
+   ========================================================================== */
+.app-view {
+  display: none !important;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.28s cubic-bezier(0.16, 1, 0.3, 1), transform 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.app-view.active-view {
+  display: block !important;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Navigation active indicator */
+.nav-link.active-nav {
+  color: #D4AF37 !important;
+  position: relative;
+}
+
+.nav-link.active-nav::after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, #F3E5AB, #D4AF37);
+  border-radius: 9999px;
+  box-shadow: 0 0 8px rgba(212, 175, 55, 0.6);
+}
+
+/* Primary Action Cards on Home Dashboard */
+.primary-action-card {
+  position: relative;
+  overflow: hidden;
+  background: rgba(14, 37, 71, 0.65);
+  border: 1px solid rgba(212, 175, 55, 0.22);
+  border-radius: 20px;
+  padding: 28px;
+  backdrop-filter: blur(16px);
+  transition: all 0.32s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.primary-action-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(212, 175, 55, 0.6);
+  box-shadow: 0 16px 36px -10px rgba(0, 0, 0, 0.6), 0 0 24px rgba(212, 175, 55, 0.2);
+}
+
+.primary-action-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #D4AF37, transparent);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.primary-action-card:hover::before {
+  opacity: 1;
+}
+
+/* Mobile Nav Drawer */
+#mobile-drawer {
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+}
+
+#mobile-drawer.open {
+  transform: translateX(0) !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* ================================================== */
+/* HOME PAGE LUXURY DASHBOARD STYLING                 */
+/* ================================================== */
+
+.home-flight-strip {
+  background: rgba(8, 22, 44, 0.85);
+  border: 1px solid rgba(212, 175, 55, 0.28);
+  box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.7), 0 0 25px rgba(212, 175, 55, 0.1);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.home-flight-strip:hover {
+  border-color: rgba(212, 175, 55, 0.45);
+  box-shadow: 0 20px 48px -10px rgba(0, 0, 0, 0.8), 0 0 32px rgba(212, 175, 55, 0.18);
+}
+
+.home-stat-badge {
+  background: rgba(14, 37, 71, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  transition: all 0.25s ease;
+}
+
+.home-stat-badge:hover {
+  border-color: rgba(212, 175, 55, 0.35);
+  transform: translateY(-2px);
+}
+
+.circuit-card {
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.35s ease, box-shadow 0.35s ease;
+}
+
+.circuit-card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(212, 175, 55, 0.5) !important;
+  box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.8), 0 0 24px rgba(212, 175, 55, 0.15) !important;
+}
+
+.circuit-card:hover img {
+  transform: scale(1.06);
+}
+
+.guide-spotlight-card {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.guide-spotlight-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(16, 185, 129, 0.45) !important;
+  box-shadow: 0 16px 36px -10px rgba(0, 0, 0, 0.7), 0 0 20px rgba(16, 185, 129, 0.15) !important;
+}
+
+.experience-spotlight-card {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.experience-spotlight-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(245, 158, 11, 0.45) !important;
+  box-shadow: 0 16px 36px -10px rgba(0, 0, 0, 0.7), 0 0 20px rgba(245, 158, 11, 0.15) !important;
+}
+
+.trust-badge-pill {
+  background: rgba(14, 37, 71, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  transition: all 0.25s ease;
+}
+
+.trust-badge-pill:hover {
+  background: rgba(14, 37, 71, 0.8);
+  border-color: rgba(212, 175, 55, 0.35);
+  transform: translateY(-2px);
+}

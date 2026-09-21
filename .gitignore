@@ -1,0 +1,15 @@
+# Environment variables and credentials
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Local data & sessions
+data/sessions.json

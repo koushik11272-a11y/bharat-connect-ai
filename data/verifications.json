@@ -1,0 +1,115 @@
+{
+  "traveler_1789925114@example.com": {
+    "otp": "544337",
+    "expires_at": "2026-09-20T17:35:14.137906Z",
+    "attempts": 0,
+    "last_sent_at": "2026-09-20T17:25:14.137921Z",
+    "pending_user": {
+      "id": "usr-461f8771",
+      "full_name": "Alexander Hamilton",
+      "email": "traveler_1789925114@example.com",
+      "phone": "+1 212 555 0199",
+      "country": "United States",
+      "traveler_type": "Cultural Explorer",
+      "password_hash": "aeb690c2d78a856ec142fa23faac4dfc17d0d37c3a098650c795776d73fc3d50",
+      "salt": "ed042fc45e02fc472e4e07dddf3c890a",
+      "terms_accepted": true,
+      "is_verified": false,
+      "status": "pending_verification",
+      "travel_preferences": {
+        "style": "Cultural Explorer",
+        "interests": [
+          "Heritage",
+          "Local Culture",
+          "Culinary"
+        ],
+        "budget_tier": "Standard",
+        "languages": [
+          "English"
+        ],
+        "emergency_contact": {
+          "name": "",
+          "phone": ""
+        },
+        "bio": ""
+      },
+      "created_at": "2026-09-20T17:25:14.137879Z"
+    }
+  },
+  "traveler_1789925294@example.com": {
+    "otp": "569708",
+    "otp_code": "569708",
+    "expires_at": "2026-09-20T17:38:14.766447Z",
+    "attempts": 0,
+    "last_sent_at": "2026-09-20T17:28:14.766460Z",
+    "pending_user": {
+      "id": "usr-92bad667",
+      "full_name": "Alexander Hamilton",
+      "email": "traveler_1789925294@example.com",
+      "phone": "+1 212 555 0199",
+      "country": "United States",
+      "traveler_type": "Cultural Explorer",
+      "password_hash": "97d6a1a7d39e6550ed0b5ae0edb411e00fe1ca71177ce677a2618fcbf04409a8",
+      "salt": "ea58cfb4de2a2a84dcd23cbce8cdbf96",
+      "terms_accepted": true,
+      "is_verified": false,
+      "status": "pending_verification",
+      "travel_preferences": {
+        "style": "Cultural Explorer",
+        "interests": [
+          "Heritage",
+          "Local Culture",
+          "Culinary"
+        ],
+        "budget_tier": "Standard",
+        "languages": [
+          "English"
+        ],
+        "emergency_contact": {
+          "name": "",
+          "phone": ""
+        },
+        "bio": ""
+      },
+      "created_at": "2026-09-20T17:28:14.766428Z"
+    }
+  },
+  "traveler_1789925334@example.com": {
+    "otp": "187288",
+    "otp_code": "187288",
+    "expires_at": "2026-09-20T17:38:54.308001Z",
+    "attempts": 0,
+    "last_sent_at": "2026-09-20T17:28:54.308010Z",
+    "pending_user": {
+      "id": "usr-d70bcfbe",
+      "full_name": "Alexander Hamilton",
+      "email": "traveler_1789925334@example.com",
+      "phone": "+1 212 555 0199",
+      "country": "United States",
+      "traveler_type": "Cultural Explorer",
+      "password_hash": "bea826f11a01f063437c17db59f7360e2d7bb173fc2ab945194ab9593b1222db",
+      "salt": "3f23ef8356f6d8e7f34b6a65e41e6d3c",
+      "terms_accepted": true,
+      "is_verified": false,
+      "status": "pending_verification",
+      "travel_preferences": {
+        "style": "Cultural Explorer",
+        "interests": [
+          "Heritage",
+          "Local Culture",
+          "Culinary"
+        ],
+        "budget_tier": "Standard",
+        "languages": [
+          "English"
+        ],
+        "emergency_contact": {
+          "name": "",
+          "phone": ""
+        },
+        "bio": ""
+      },
+      "created_at": "2026-09-20T17:28:54.307988Z"
+    }
+  }
+}

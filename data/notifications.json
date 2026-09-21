@@ -1,0 +1,1145 @@
+[
+  {
+    "id": "notif-upc-custom-53d5",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-13f72b39",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 7-Day Bespoke Journey: Golden Triangle",
+    "message": "Your customized journey to Golden Triangle (Delhi, Agra, Jaipur) starting 2026-10-21 is officially confirmed. Guide Arjun Sharma is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T07:16:59.828310Z"
+  },
+  {
+    "id": "notif-2d-custom-69a7",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-13f72b39",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Golden Triangle (Delhi, Agra, Jaipur)",
+    "message": "Only 2 days remaining until your trip to Golden Triangle (Delhi, Agra, Jaipur)! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-10-19",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T07:16:59.828310Z"
+  },
+  {
+    "id": "notif-1d-custom-7cb2",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-13f72b39",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Golden Triangle (Delhi, Agra, Jaipur)!",
+    "message": "Tomorrow is departure day! Your assigned guide Arjun Sharma has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-10-20",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T07:16:59.828310Z"
+  },
+  {
+    "id": "notif-dep-custom-06fb",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-13f72b39",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Arjun Sharma are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-10-21",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T07:16:59.828310Z"
+  },
+  {
+    "id": "notif-upc-opt-7--76bf",
+    "user_id": "usr-6b0e1242",
+    "trip_id": "trip-opt-7-c2eb85",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 7-Day Sacred Ganges & Spiritual Varanasi",
+    "message": "Your customized journey to Delhi → Varanasi → Rishikesh starting 2026-12-01 is officially confirmed. Guide Vikramaditya Sengupta is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T06:18:13.680404Z"
+  },
+  {
+    "id": "notif-2d-opt-7--8f2f",
+    "user_id": "usr-6b0e1242",
+    "trip_id": "trip-opt-7-c2eb85",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Delhi → Varanasi → Rishikesh",
+    "message": "Only 2 days remaining until your trip to Delhi → Varanasi → Rishikesh! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-11-29",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T06:18:13.680404Z"
+  },
+  {
+    "id": "notif-1d-opt-7--7b90",
+    "user_id": "usr-6b0e1242",
+    "trip_id": "trip-opt-7-c2eb85",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Delhi → Varanasi → Rishikesh!",
+    "message": "Tomorrow is departure day! Your assigned guide Vikramaditya Sengupta has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-11-30",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T06:18:13.680404Z"
+  },
+  {
+    "id": "notif-dep-opt-7--694f",
+    "user_id": "usr-6b0e1242",
+    "trip_id": "trip-opt-7-c2eb85",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Vikramaditya Sengupta are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-12-01",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T06:18:13.680404Z"
+  },
+  {
+    "id": "notif-8d0a8614",
+    "user_id": "usr-6b0e1242",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler c2eb85! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:17:59.960548Z"
+  },
+  {
+    "id": "notif-753d10c8",
+    "user_id": "usr-b2d0d6eb",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Alexander Hamilton! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:17:49.369570Z"
+  },
+  {
+    "id": "notif-593cdfa9",
+    "user_id": "usr-96bb279e",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Siddharth Verma! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:17:38.448524Z"
+  },
+  {
+    "id": "notif-afc04aaa",
+    "user_id": "usr-50da771f",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:17:08.963164Z"
+  },
+  {
+    "id": "notif-be6851de",
+    "user_id": "usr-8b3ec84e",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:17:03.962097Z"
+  },
+  {
+    "id": "notif-2330e17e",
+    "user_id": "usr-fea3868f",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:15:11.483153Z"
+  },
+  {
+    "id": "notif-773ee9a2",
+    "user_id": "usr-d0589925",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:15:07.078321Z"
+  },
+  {
+    "id": "notif-upc-opt-7--c5b7",
+    "user_id": "usr-3285b382",
+    "trip_id": "trip-opt-7-e5ae80",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 7-Day Sacred Ganges & Spiritual Varanasi",
+    "message": "Your customized journey to Delhi → Varanasi → Rishikesh starting 2026-12-01 is officially confirmed. Guide Vikramaditya Sengupta is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T06:15:02.519138Z"
+  },
+  {
+    "id": "notif-2d-opt-7--0ea4",
+    "user_id": "usr-3285b382",
+    "trip_id": "trip-opt-7-e5ae80",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Delhi → Varanasi → Rishikesh",
+    "message": "Only 2 days remaining until your trip to Delhi → Varanasi → Rishikesh! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-11-29",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T06:15:02.519138Z"
+  },
+  {
+    "id": "notif-1d-opt-7--301f",
+    "user_id": "usr-3285b382",
+    "trip_id": "trip-opt-7-e5ae80",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Delhi → Varanasi → Rishikesh!",
+    "message": "Tomorrow is departure day! Your assigned guide Vikramaditya Sengupta has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-11-30",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T06:15:02.519138Z"
+  },
+  {
+    "id": "notif-dep-opt-7--1579",
+    "user_id": "usr-3285b382",
+    "trip_id": "trip-opt-7-e5ae80",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Vikramaditya Sengupta are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-12-01",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T06:15:02.519138Z"
+  },
+  {
+    "id": "notif-9db25804",
+    "user_id": "usr-3285b382",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler e5ae80! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:14:48.055602Z"
+  },
+  {
+    "id": "notif-a0ca2e42",
+    "user_id": "usr-b6cc8dff",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Alexander Hamilton! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:14:22.605368Z"
+  },
+  {
+    "id": "notif-dfe7a16b",
+    "user_id": "usr-7885e8d1",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Siddharth Verma! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T06:14:04.588610Z"
+  },
+  {
+    "id": "notif-upc-custom-bdd2",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-b50e6f20",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 7-Day Bespoke Journey: Jaipur, Agra, Delhi, Jodhpur",
+    "message": "Your customized journey to Jaipur, Agra, Delhi, Jodhpur starting 2026-10-05 is officially confirmed. Guide Arjun Sharma is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T05:02:02.030626Z"
+  },
+  {
+    "id": "notif-2d-custom-8bb4",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-b50e6f20",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Jaipur, Agra, Delhi, Jodhpur",
+    "message": "Only 2 days remaining until your trip to Jaipur, Agra, Delhi, Jodhpur! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-10-03",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T05:02:02.030626Z"
+  },
+  {
+    "id": "notif-1d-custom-1c48",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-b50e6f20",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Jaipur, Agra, Delhi, Jodhpur!",
+    "message": "Tomorrow is departure day! Your assigned guide Arjun Sharma has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-10-04",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T05:02:02.030626Z"
+  },
+  {
+    "id": "notif-dep-custom-bc9f",
+    "user_id": "usr-d5ec59eb",
+    "trip_id": "trip-custom-b50e6f20",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Arjun Sharma are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-10-05",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T05:02:02.030626Z"
+  },
+  {
+    "id": "notif-upc-custom-4e75",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-be26bf88",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 3-Day Bespoke Journey: Varanasi & Jaipur",
+    "message": "Your customized journey to Varanasi & Jaipur starting 2026-12-01 is officially confirmed. Guide Arjun Sharma is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T04:59:05.442993Z"
+  },
+  {
+    "id": "notif-2d-custom-be6b",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-be26bf88",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Varanasi & Jaipur",
+    "message": "Only 2 days remaining until your trip to Varanasi & Jaipur! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-11-29",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T04:59:05.442993Z"
+  },
+  {
+    "id": "notif-1d-custom-dd51",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-be26bf88",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Varanasi & Jaipur!",
+    "message": "Tomorrow is departure day! Your assigned guide Arjun Sharma has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-11-30",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T04:59:05.442993Z"
+  },
+  {
+    "id": "notif-dep-custom-2e19",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-be26bf88",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Arjun Sharma are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-12-01",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T04:59:05.442993Z"
+  },
+  {
+    "id": "notif-upc-custom-ec32",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-ac26c6e4",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 4-Day Bespoke Journey: Jaipur & Udaipur, Rajasthan",
+    "message": "Your customized journey to Jaipur & Udaipur, Rajasthan starting 2026-11-15 is officially confirmed. Guide Arjun Sharma is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T04:45:41.790954Z"
+  },
+  {
+    "id": "notif-2d-custom-a9a5",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-ac26c6e4",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Jaipur & Udaipur, Rajasthan",
+    "message": "Only 2 days remaining until your trip to Jaipur & Udaipur, Rajasthan! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-11-13",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T04:45:41.790954Z"
+  },
+  {
+    "id": "notif-1d-custom-1e69",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-ac26c6e4",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Jaipur & Udaipur, Rajasthan!",
+    "message": "Tomorrow is departure day! Your assigned guide Arjun Sharma has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-11-14",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T04:45:41.790954Z"
+  },
+  {
+    "id": "notif-dep-custom-b2be",
+    "user_id": "usr-ef2059b4",
+    "trip_id": "trip-custom-ac26c6e4",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Arjun Sharma are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-11-15",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T04:45:41.790954Z"
+  },
+  {
+    "id": "notif-b448d7ba",
+    "user_id": "usr-f6d0d296",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T04:09:59.036576Z"
+  },
+  {
+    "id": "notif-c0a4a107",
+    "user_id": "usr-363ebeaf",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T04:09:54.765457Z"
+  },
+  {
+    "id": "notif-e4eb835d",
+    "user_id": "usr-e179f48b",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Eleanor Vance! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:51:13.101943Z"
+  },
+  {
+    "id": "notif-af423750",
+    "user_id": "usr-a2c904b1",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome David Miller! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:51:06.318710Z"
+  },
+  {
+    "id": "notif-717eb5da",
+    "user_id": "usr-66648a83",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Msg Tester! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:50:50.981186Z"
+  },
+  {
+    "id": "notif-308a0816",
+    "user_id": "usr-70842e8f",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome David Miller! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:49:59.674996Z"
+  },
+  {
+    "id": "notif-upc-opt-4-ff58",
+    "user_id": "usr-71da76dc",
+    "trip_id": "opt-4",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 7-Day Royal Fortresses & Thar Desert Palaces",
+    "message": "Your customized journey to Jaipur, Jodhpur & Udaipur starting 2026-11-15 is officially confirmed. Guide Arjun Sharma is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T03:28:34.897436Z"
+  },
+  {
+    "id": "notif-2d-opt-4-f6e7",
+    "user_id": "usr-71da76dc",
+    "trip_id": "opt-4",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Jaipur, Jodhpur & Udaipur",
+    "message": "Only 2 days remaining until your trip to Jaipur, Jodhpur & Udaipur! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-11-13",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T03:28:34.897436Z"
+  },
+  {
+    "id": "notif-1d-opt-4-9f5e",
+    "user_id": "usr-71da76dc",
+    "trip_id": "opt-4",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Jaipur, Jodhpur & Udaipur!",
+    "message": "Tomorrow is departure day! Your assigned guide Arjun Sharma has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-11-14",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T03:28:34.897436Z"
+  },
+  {
+    "id": "notif-dep-opt-4-6629",
+    "user_id": "usr-71da76dc",
+    "trip_id": "opt-4",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Arjun Sharma are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-11-15",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T03:28:34.897436Z"
+  },
+  {
+    "id": "notif-d2c232a8",
+    "user_id": "usr-71da76dc",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-21T03:28:10.592473Z"
+  },
+  {
+    "id": "notif-e9cd01d4",
+    "user_id": "usr-e45ea24d",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:27:33.338266Z"
+  },
+  {
+    "id": "notif-a5289dcf",
+    "user_id": "usr-5ffcd930",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:27:28.303136Z"
+  },
+  {
+    "id": "notif-459940a7",
+    "user_id": "usr-1a2ccb2d",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:22:07.183588Z"
+  },
+  {
+    "id": "notif-dc61f498",
+    "user_id": "usr-b4124a79",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:22:01.843038Z"
+  },
+  {
+    "id": "notif-upc-opt-7--8d2f",
+    "user_id": "usr-0eb841e2",
+    "trip_id": "trip-opt-7-99b1dd",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 7-Day Sacred Ganges & Spiritual Varanasi",
+    "message": "Your customized journey to Delhi → Varanasi → Rishikesh starting 2026-12-01 is officially confirmed. Guide Vikramaditya Sengupta is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T03:21:24.106530Z"
+  },
+  {
+    "id": "notif-2d-opt-7--2c2f",
+    "user_id": "usr-0eb841e2",
+    "trip_id": "trip-opt-7-99b1dd",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Delhi → Varanasi → Rishikesh",
+    "message": "Only 2 days remaining until your trip to Delhi → Varanasi → Rishikesh! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-11-29",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T03:21:24.106530Z"
+  },
+  {
+    "id": "notif-1d-opt-7--5773",
+    "user_id": "usr-0eb841e2",
+    "trip_id": "trip-opt-7-99b1dd",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Delhi → Varanasi → Rishikesh!",
+    "message": "Tomorrow is departure day! Your assigned guide Vikramaditya Sengupta has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-11-30",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T03:21:24.106530Z"
+  },
+  {
+    "id": "notif-dep-opt-7--6cfe",
+    "user_id": "usr-0eb841e2",
+    "trip_id": "trip-opt-7-99b1dd",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Vikramaditya Sengupta are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-12-01",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T03:21:24.106530Z"
+  },
+  {
+    "id": "notif-5ec3ffde",
+    "user_id": "usr-0eb841e2",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler 99b1dd! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:21:08.184227Z"
+  },
+  {
+    "id": "notif-792e394e",
+    "user_id": "usr-85f8e4ca",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Eleanor Vance! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:20:56.110987Z"
+  },
+  {
+    "id": "notif-f9246a28",
+    "user_id": "usr-8110814f",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome David Miller! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:18:38.994364Z"
+  },
+  {
+    "id": "notif-upc-opt-4-5695",
+    "user_id": "usr-fccc5e91",
+    "trip_id": "opt-4",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed: 7-Day Royal Fortresses & Thar Desert Palaces",
+    "message": "Your customized journey to Jaipur, Jodhpur & Udaipur starting 2026-11-15 is officially confirmed. Guide Arjun Sharma is assigned to your itinerary.",
+    "read": false,
+    "scheduled_date": "2026-09-21",
+    "notification_stage": "upcoming",
+    "created_at": "2026-09-21T03:10:13.372988Z"
+  },
+  {
+    "id": "notif-2d-opt-4-6483",
+    "user_id": "usr-fccc5e91",
+    "trip_id": "opt-4",
+    "type": "trip_reminder_2days",
+    "title": "2 Days Before Departure: Jaipur, Jodhpur & Udaipur",
+    "message": "Only 2 days remaining until your trip to Jaipur, Jodhpur & Udaipur! Review your packing checklist, transit vouchers, and local advisory.",
+    "read": false,
+    "scheduled_date": "2026-11-13",
+    "notification_stage": "2_days_before",
+    "created_at": "2026-09-21T03:10:13.372988Z"
+  },
+  {
+    "id": "notif-1d-opt-4-3bdf",
+    "user_id": "usr-fccc5e91",
+    "trip_id": "opt-4",
+    "type": "trip_reminder_1day",
+    "title": "1 Day Before Departure: Tomorrow You Depart for Jaipur, Jodhpur & Udaipur!",
+    "message": "Tomorrow is departure day! Your assigned guide Arjun Sharma has finalized your reception. Check into your flights and have a safe journey.",
+    "read": false,
+    "scheduled_date": "2026-11-14",
+    "notification_stage": "1_day_before",
+    "created_at": "2026-09-21T03:10:13.372988Z"
+  },
+  {
+    "id": "notif-dep-opt-4-9173",
+    "user_id": "usr-fccc5e91",
+    "trip_id": "opt-4",
+    "type": "trip_departure_day",
+    "title": "Departure Day: Welcome to Your India Adventure!",
+    "message": "Today is the day! Welcome to India. Your local concierge support and guide Arjun Sharma are active. Enjoy Day 1 of your journey.",
+    "read": false,
+    "scheduled_date": "2026-11-15",
+    "notification_stage": "departure_day",
+    "created_at": "2026-09-21T03:10:13.372988Z"
+  },
+  {
+    "id": "notif-a8d64e3a",
+    "user_id": "usr-fccc5e91",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-21T03:09:59.554739Z"
+  },
+  {
+    "id": "notif-2aab6a42",
+    "user_id": "usr-a6b3f700",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome David Miller! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-21T03:09:36.275285Z"
+  },
+  {
+    "id": "notif-ee9fe9ed",
+    "user_id": "usr-86ed6fa1",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Sacred Ganges & Spiritual Varanasi' starting 2026-12-01 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T19:22:19.885402Z"
+  },
+  {
+    "id": "notif-38e2d13f",
+    "user_id": "usr-86ed6fa1",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler 0b01b1! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T19:21:56.642502Z"
+  },
+  {
+    "id": "notif-dbea2899",
+    "user_id": "usr-adac5363",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Sacred Ganges & Spiritual Varanasi' starting 2026-12-01 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T19:21:49.091667Z"
+  },
+  {
+    "id": "notif-268d95f5",
+    "user_id": "usr-adac5363",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler 1c2cf6! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T19:21:25.008513Z"
+  },
+  {
+    "id": "notif-34262f93",
+    "user_id": "usr-12857313",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Lucas Meyer dd513b! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:20:29.324300Z"
+  },
+  {
+    "id": "notif-b835c4fa",
+    "user_id": "usr-7ddfa86e",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Chloe Dubois 87db13! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:20:12.343212Z"
+  },
+  {
+    "id": "notif-3fd4a78f",
+    "user_id": "usr-e9574f00",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Kenji Sato 6f0bf5! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:19:58.535937Z"
+  },
+  {
+    "id": "notif-5e2ed1d9",
+    "user_id": "usr-9af242a1",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Elena Rostova de82cb! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:19:58.429366Z"
+  },
+  {
+    "id": "notif-3d8aff6b",
+    "user_id": "usr-2aa2ed38",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:19:56.787930Z"
+  },
+  {
+    "id": "notif-075ea7b5",
+    "user_id": "usr-4abbdf7f",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:19:43.283265Z"
+  },
+  {
+    "id": "notif-3971acf1",
+    "user_id": "usr-806cfd40",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Hans Gruber! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:18:58.202547Z"
+  },
+  {
+    "id": "notif-54199142",
+    "user_id": "usr-aabd8206",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Siddharth Verma! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:16:58.336887Z"
+  },
+  {
+    "id": "notif-b56f5657",
+    "user_id": "usr-f241f321",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Eleanor Vance! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:11:46.627829Z"
+  },
+  {
+    "id": "notif-a747c0c5",
+    "user_id": "usr-461f5478",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome David Miller! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:11:32.768488Z"
+  },
+  {
+    "id": "notif-6f44f6eb",
+    "user_id": "usr-f26cb17e",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Hans Gruber! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:11:21.028172Z"
+  },
+  {
+    "id": "notif-f0e3734e",
+    "user_id": "usr-d4faa2fd",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Alexander Hamilton! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:11:09.946598Z"
+  },
+  {
+    "id": "notif-8c934d6b",
+    "user_id": "usr-bbd144d0",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Siddharth Verma! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:10:55.725729Z"
+  },
+  {
+    "id": "notif-7feb52a8",
+    "user_id": "usr-d03a79d6",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:10:16.225796Z"
+  },
+  {
+    "id": "notif-edd59ae7",
+    "user_id": "usr-6f1e9c17",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:10:09.130895Z"
+  },
+  {
+    "id": "notif-36936de1",
+    "user_id": "usr-08caff4a",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Eleanor Vance! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:09:49.362605Z"
+  },
+  {
+    "id": "notif-ded66cb8",
+    "user_id": "usr-73478a6e",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Elena Rostova! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:09:37.273397Z"
+  },
+  {
+    "id": "notif-b945d1c3",
+    "user_id": "usr-a7ad865e",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Aarav Patel! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:09:31.989713Z"
+  },
+  {
+    "id": "notif-d8077471",
+    "user_id": "usr-c86a33f9",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Sacred Ganges & Spiritual Varanasi' starting 2026-12-01 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T18:09:25.561645Z"
+  },
+  {
+    "id": "notif-9538d3b9",
+    "user_id": "usr-c86a33f9",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler d30600! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:09:12.141164Z"
+  },
+  {
+    "id": "notif-3cc88fc5",
+    "user_id": "usr-2c5ce7fa",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Hans Gruber! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T18:01:41.475482Z"
+  },
+  {
+    "id": "notif-02bab240",
+    "user_id": "usr-65bb07f3",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Hans Gruber! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:59:15.108412Z"
+  },
+  {
+    "id": "notif-53b9dda7",
+    "user_id": "usr-3570df8b",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Alexander Hamilton! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:58:33.374477Z"
+  },
+  {
+    "id": "notif-69278857",
+    "user_id": "usr-aca90756",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Siddharth Verma! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:58:10.167553Z"
+  },
+  {
+    "id": "notif-5a57b77f",
+    "user_id": "usr-87cfa503",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Bob! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:57:49.545385Z"
+  },
+  {
+    "id": "notif-4037ab85",
+    "user_id": "usr-79c95276",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler Alice! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:57:45.462442Z"
+  },
+  {
+    "id": "notif-186a571e",
+    "user_id": "usr-178e1e2c",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome David Miller! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:57:05.099920Z"
+  },
+  {
+    "id": "notif-caa42434",
+    "user_id": "usr-a63a3e39",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Eleanor Vance! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:56:20.940544Z"
+  },
+  {
+    "id": "notif-cfbd3e97",
+    "user_id": "usr-f4383d10",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Lucas Meyer 93d16a! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:56:06.107594Z"
+  },
+  {
+    "id": "notif-0dce897e",
+    "user_id": "usr-58c58ce1",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Chloe Dubois 3ec67a! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:55:56.118500Z"
+  },
+  {
+    "id": "notif-8a4ad0b4",
+    "user_id": "usr-5975a024",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Kenji Sato 5efd14! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:55:51.947772Z"
+  },
+  {
+    "id": "notif-2cb7aa05",
+    "user_id": "usr-5fd2d6ce",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Elena Rostova beb3c5! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:55:51.843300Z"
+  },
+  {
+    "id": "notif-3c889c29",
+    "user_id": "usr-1a0eea01",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Elena Rostova! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:55:29.864692Z"
+  },
+  {
+    "id": "notif-04ee285f",
+    "user_id": "usr-8f9e8878",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Aarav Patel! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:55:25.494017Z"
+  },
+  {
+    "id": "notif-c942ab8f",
+    "user_id": "usr-c2ba8dee",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Sacred Ganges & Spiritual Varanasi' starting 2026-12-01 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T17:55:14.217907Z"
+  },
+  {
+    "id": "notif-ab7193bc",
+    "user_id": "usr-c2ba8dee",
+    "type": "welcome",
+    "title": "Welcome to BharatConnect AI",
+    "message": "Welcome Traveler 35f990! Your global India travel account is active and verified.",
+    "read": false,
+    "created_at": "2026-09-20T17:54:54.672793Z"
+  },
+  {
+    "id": "notif-ec15057a",
+    "user_id": "usr-a858909e",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Royal Fortresses & Thar Desert Palaces' starting 2026-11-15 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T17:54:19.408111Z"
+  },
+  {
+    "id": "notif-2c5fac3e",
+    "user_id": "usr-a858909e",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:54:05.845580Z"
+  },
+  {
+    "id": "notif-47d5e39d",
+    "user_id": "usr-9571a80d",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Royal Fortresses & Thar Desert Palaces' starting 2026-11-15 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T17:48:20.853497Z"
+  },
+  {
+    "id": "notif-4ff6fd67",
+    "user_id": "usr-9571a80d",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:47:35.682052Z"
+  },
+  {
+    "id": "notif-59d3e2f0",
+    "user_id": "usr-1db68d2b",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Royal Fortresses & Thar Desert Palaces' starting 2026-11-15 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T17:42:32.100295Z"
+  },
+  {
+    "id": "notif-60b760ed",
+    "user_id": "usr-1db68d2b",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:42:13.999734Z"
+  },
+  {
+    "id": "notif-661fb69c",
+    "user_id": "usr-5bddc9a6",
+    "type": "trip_confirmed",
+    "title": "Trip Confirmed & Local Guide Assigned!",
+    "message": "Your trip '7-Day Royal Fortresses & Thar Desert Palaces' starting 2026-11-15 is confirmed. Your assigned guide is ready to connect.",
+    "read": false,
+    "created_at": "2026-09-20T17:39:50.509316Z"
+  },
+  {
+    "id": "notif-4e03266c",
+    "user_id": "usr-5bddc9a6",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:39:36.379934Z"
+  },
+  {
+    "id": "notif-66719175",
+    "user_id": "usr-69fafc0b",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:36:50.507090Z"
+  },
+  {
+    "id": "notif-ce3f9b23",
+    "user_id": "usr-b9600d26",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:31:55.398931Z"
+  },
+  {
+    "id": "notif-8e90e9b1",
+    "user_id": "usr-934dd4d1",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:31:17.098082Z"
+  },
+  {
+    "id": "notif-5e1e3845",
+    "user_id": "usr-3fca35f6",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:30:03.549795Z"
+  },
+  {
+    "id": "notif-dc9fa626",
+    "user_id": "usr-92bb5bf0",
+    "type": "verification_success",
+    "title": "Email Verified Successfully",
+    "message": "Welcome to BharatConnect AI, Alexander Hamilton! Your verified traveler account is now active.",
+    "read": false,
+    "created_at": "2026-09-20T17:29:26.034321Z"
+  }
+]

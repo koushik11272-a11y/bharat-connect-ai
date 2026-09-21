@@ -1,0 +1,144 @@
+[
+  {
+    "id": "post-1",
+    "author_name": "Sarah Jenkins",
+    "author_avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80",
+    "author_origin": "San Francisco, CA, USA",
+    "title": "My First Week in India: Golden Triangle as a Solo Female Traveler",
+    "category": "Traveler Stories",
+    "tags": ["SoloTravel", "GoldenTriangle", "SafetyTips", "Culture"],
+    "date": "2 days ago",
+    "content": "Before landing in New Delhi, I read every contradictory blog on the internet. BharatConnect AI matched me with Kabir Khan for Old Delhi and Arjun Sharma in Jaipur. Having verified local guides transformed what could have been overwhelming into the most welcoming, mind-opening week of my life. If you're coming from the US: get an Airtel e-SIM at the airport, keep cash in small denominations (₹100/₹200), and trust the BharatConnect verified network!",
+    "likes": 142,
+    "user_liked": false,
+    "followers_count": 84,
+    "is_following": false,
+    "comments_count": 28,
+    "comments": [
+      {
+        "author": "David Miller (Chicago)",
+        "text": "Did you take the train between Delhi and Jaipur or hire a private chauffeur?",
+        "time": "1 day ago"
+      },
+      {
+        "author": "Sarah Jenkins (Author)",
+        "text": "We booked the Vande Bharat Express! Super modern, punctuality was top notch, and breakfast was included.",
+        "time": "18 hours ago"
+      }
+    ]
+  },
+  {
+    "id": "post-2",
+    "author_name": "Michael Chang",
+    "author_avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+    "author_origin": "Austin, Texas, USA",
+    "title": "Connecting with Local Communities: How a Kerala Spice Tour Turned into a Pepper Partnership",
+    "category": "Business & Collaboration",
+    "tags": ["CrossBorder", "SpiceTrade", "Kerala", "FairTrade"],
+    "date": "4 days ago",
+    "content": "As an artisan food maker in Austin, I went to Wayanad with Priya Nair to discover heirloom spices. During the tour, I was introduced to the Malabar Organic Spice Guild through the Global Collaboration Lounge. We've just completed a trial sample shipment of sun-dried Tellicherry peppercorns! It's incredible how travel can unlock real, ethical business bridges.",
+    "likes": 204,
+    "user_liked": false,
+    "followers_count": 132,
+    "is_following": false,
+    "comments_count": 39,
+    "comments": [
+      {
+        "author": "Elena Rostova (Berlin)",
+        "text": "This is amazing! How was the customs & regulatory guidance process handled?",
+        "time": "3 days ago"
+      },
+      {
+        "author": "Michael Chang (Author)",
+        "text": "The platform strictly handles discovery and introduction; they provided us with a list of verified trade advisory chambers which made the paperwork seamless.",
+        "time": "2 days ago"
+      }
+    ]
+  },
+  {
+    "id": "post-3",
+    "author_name": "Dr. Marcus & Chloe Evans",
+    "author_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+    "author_origin": "Boston, MA, USA",
+    "title": "Planning a Family Trip to India: What Worked & What Didn't Across Rajasthan",
+    "category": "Family Travel",
+    "tags": ["FamilyTravel", "Rajasthan", "KidsInIndia", "ItineraryTips"],
+    "date": "1 week ago",
+    "content": "Our tips for families visiting India: 1. Don't plan more than 2 major monuments per day. 2. Stay in heritage hotels with pools so kids can decompress in the afternoons. 3. The Block Printing workshop in Bagru was the biggest highlight—our kids created their own scarves and still talk about it every day!",
+    "likes": 98,
+    "user_liked": false,
+    "followers_count": 56,
+    "is_following": false,
+    "comments_count": 17,
+    "comments": [
+      {
+        "author": "Jennifer Walsh (Atlanta)",
+        "text": "Which heritage havelis did you stay in with the kids?",
+        "time": "5 days ago"
+      }
+    ]
+  },
+  {
+    "id": "post-4",
+    "author_name": "Chef Anthony Morel",
+    "author_avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+    "author_origin": "New York, NY, USA",
+    "title": "Best Local Food Experiences: From Chandni Chowk Jalebis to Royal Haveli Laal Maas",
+    "category": "Traveler Stories",
+    "tags": ["CulinaryTrail", "OldDelhi", "JaipurFood", "StreetEats"],
+    "date": "5 days ago",
+    "content": "I came to India expecting spice, but I discovered a symphony of regional culinary techniques. Old Delhi's Daulat ki Chaat melted like sweet cloud foam. In Jaipur, cooking with a royal haveli family taught me that true garam masala has 16 toasted spices balanced to the millimeter. Don't skip the curated food walks—our guide knew which vendors use pure filtered water and pristine hygiene!",
+    "likes": 175,
+    "user_liked": false,
+    "followers_count": 210,
+    "is_following": false,
+    "comments_count": 31,
+    "comments": [
+      {
+        "author": "Siddharth Verma (Delhi)",
+        "text": "Spot on about Daulat ki Chaat! It is only made on winter mornings under the dew.",
+        "time": "3 days ago"
+      }
+    ]
+  },
+  {
+    "id": "post-5",
+    "author_name": "Claire & Liam Hemsworth",
+    "author_avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+    "author_origin": "Seattle, WA, USA",
+    "title": "How to Prepare for Your First Visit: e-Visa, Currency, Connectivity & Cultural Etiquette",
+    "category": "Traveler Stories",
+    "tags": ["FirstTimeIndia", "TravelPrep", "eVisa", "SIMCard", "Etiquette"],
+    "date": "6 days ago",
+    "content": "Top 5 checklist items for US travelers landing for the first time: 1. Apply for the Indian 30-Day or 1-Year Tourist e-Visa at least 10 days before flight. 2. Download BharatConnect AI offline guides. 3. Carry a mix of ₹2,000 cash in ₹100 notes for temple offerings and use international credit cards everywhere else. 4. Dress respectfully with shoulders and knees covered in holy sites. 5. Greet hosts with a gentle 'Namaste'—it opens every heart in India!",
+    "likes": 230,
+    "user_liked": false,
+    "followers_count": 180,
+    "is_following": false,
+    "comments_count": 42,
+    "comments": [
+      {
+        "author": "Robert Evans (Denver)",
+        "text": "Invaluable advice. The e-Visa tip saved us from last minute panic.",
+        "time": "4 days ago"
+      }
+    ]
+  },
+  {
+    "id": "post-6",
+    "author_name": "Rachel Vance",
+    "author_avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+    "author_origin": "Seattle, WA, USA",
+    "title": "Sunrise Meditation & Sitar on the Varanasi Ghats: An Unforgettable Morning",
+    "category": "Spiritual & Wellness",
+    "tags": ["Varanasi", "Spirituality", "Meditation", "SacredIndia"],
+    "date": "1 week ago",
+    "content": "At 5:15 AM, the fog gently lifts over the Ganges while priests chant the Gayatri Mantra. Vikramaditya guided our small group onto an electric wooden boat. There were no tourist traps, just pure peace and reverence. A must-do experience for anyone seeking inner perspective.",
+    "likes": 186,
+    "user_liked": false,
+    "followers_count": 95,
+    "is_following": false,
+    "comments_count": 22,
+    "comments": []
+  }
+]
